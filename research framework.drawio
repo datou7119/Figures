@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T11:35:15.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="rI4F9RknvtqFa27JebeP" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T11:36:14.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="TZLqrc56xd1lsWSIXl1g" version="23.1.6" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1380" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -8,22 +8,22 @@
           <mxGeometry x="350" y="120" width="440" height="400" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-22" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Removing irrelevant variables&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Detecting and handling missing values&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Detecting and removing errors /plausible values&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Detecting distributions and&amp;nbsp;&lt;/span&gt;outliers&lt;/li&gt;&lt;li&gt;Generating new engineered features&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#E6E6E6;" parent="yL8Y23ndC1ePSWJtt0TE-13" vertex="1">
-          <mxGeometry x="70" y="290" width="320" height="110" as="geometry" />
+          <mxGeometry x="10" y="270" width="320" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yL8Y23ndC1ePSWJtt0TE-13" source="yL8Y23ndC1ePSWJtt0TE-26" target="yL8Y23ndC1ePSWJtt0TE-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-26" value="Data Cleansing" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="yL8Y23ndC1ePSWJtt0TE-13" vertex="1">
-          <mxGeometry x="22.5" y="202.5" width="120" height="65" as="geometry" />
+          <mxGeometry x="50" y="167.5" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yL8Y23ndC1ePSWJtt0TE-13" source="yL8Y23ndC1ePSWJtt0TE-28" target="yL8Y23ndC1ePSWJtt0TE-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-28" value="Exploratory Data Analysis&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(Python)&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="yL8Y23ndC1ePSWJtt0TE-13" vertex="1">
-          <mxGeometry x="182.5" y="205" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-42" value="Enriched Datasets" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" parent="yL8Y23ndC1ePSWJtt0TE-13" vertex="1">
-          <mxGeometry x="352.5" y="195" width="60" height="80" as="geometry" />
+          <mxGeometry x="352.5" y="160" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-10" value="Data Collation" style="swimlane;labelBorderColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="132.5" y="120" width="217.5" height="400" as="geometry" />
@@ -64,7 +64,7 @@
           <mxGeometry x="790" y="120" width="330" height="400" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-44" value="Data Pre-processing" style="whiteSpace=wrap;html=1;" parent="yL8Y23ndC1ePSWJtt0TE-46" vertex="1">
-          <mxGeometry x="40" y="205" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-47" value="Data Scaling Normalization&lt;br&gt;Data Transformation&lt;br&gt;Handling Multicollinearity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="795" y="413" width="170" height="60" as="geometry" />
