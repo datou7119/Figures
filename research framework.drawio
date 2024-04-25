@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T16:06:46.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="iIPAB2XTKu9YSY89jEMt" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T13:31:02.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="pHtfQwRCfpsFm6S426Xt" version="24.2.2" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1179" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -79,31 +79,31 @@
           <mxGeometry x="380" y="30" width="620" height="160" as="geometry" />
         </mxCell>
         <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-18" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;ML model development&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="480" width="620" height="250" as="geometry" />
+          <mxGeometry x="380" y="480" width="620" height="230" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-44" value="Data Pre-processing" style="whiteSpace=wrap;html=1;fontStyle=1;textShadow=1;" parent="o9FxQ4-tsoaMGLUnX_Qn-18" vertex="1">
           <mxGeometry x="60" y="29.5" width="150" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-2" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Data Type Transformation&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Handling Multicollinearity&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Imputation&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Aggregation&lt;/li&gt;&lt;li&gt;Data Scaling and Normalization&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#E6E6E6;spacingRight=2;spacingLeft=0;fontSize=12;spacing=0;" vertex="1" parent="o9FxQ4-tsoaMGLUnX_Qn-18">
-          <mxGeometry x="290" y="5.5" width="230" height="110" as="geometry" />
+        <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-2" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Data type transformation&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Handling multicollinearity&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Imputation&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Aggregation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#E6E6E6;spacingRight=2;spacingLeft=0;fontSize=12;spacing=0;" vertex="1" parent="o9FxQ4-tsoaMGLUnX_Qn-18">
+          <mxGeometry x="290" y="15.5" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="o9FxQ4-tsoaMGLUnX_Qn-18" source="yL8Y23ndC1ePSWJtt0TE-44" target="o9FxQ4-tsoaMGLUnX_Qn-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-3" value="Model Selection" style="whiteSpace=wrap;html=1;fontStyle=1;textShadow=1;" vertex="1" parent="o9FxQ4-tsoaMGLUnX_Qn-18">
+        <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-3" value="Model Building" style="whiteSpace=wrap;html=1;fontStyle=1;textShadow=1;" vertex="1" parent="o9FxQ4-tsoaMGLUnX_Qn-18">
           <mxGeometry x="60" y="140" width="150" height="61" as="geometry" />
         </mxCell>
         <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="o9FxQ4-tsoaMGLUnX_Qn-18" source="yL8Y23ndC1ePSWJtt0TE-44" target="o9FxQ4-tsoaMGLUnX_Qn-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-8" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Training/Testing Data Split&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Data Scaling&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Feature Selection&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Algorithm Selection&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Cross-validation&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Performance Evaluation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#E6E6E6;spacingRight=2;spacingLeft=0;fontSize=12;spacing=0;" vertex="1" parent="o9FxQ4-tsoaMGLUnX_Qn-18">
-          <mxGeometry x="290" y="110.5" width="200" height="120" as="geometry" />
+        <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-8" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Training/testing data split&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Data scaling and normalization&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Feature selection&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Algorithm selection&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#E6E6E6;spacingRight=2;spacingLeft=0;fontSize=12;spacing=0;" vertex="1" parent="o9FxQ4-tsoaMGLUnX_Qn-18">
+          <mxGeometry x="290" y="125.5" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="o9FxQ4-tsoaMGLUnX_Qn-18" source="o9FxQ4-tsoaMGLUnX_Qn-3" target="o9FxQ4-tsoaMGLUnX_Qn-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-20" value="Final Model Fitting" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="760" width="150" height="61" as="geometry" />
+          <mxGeometry x="440" y="740" width="150" height="61" as="geometry" />
         </mxCell>
         <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o9FxQ4-tsoaMGLUnX_Qn-3" target="o9FxQ4-tsoaMGLUnX_Qn-20">
           <mxGeometry relative="1" as="geometry" />
