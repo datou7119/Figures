@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T12:56:08.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="ztNXjM-y41Sp0ltcG0qF" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T13:05:34.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="L7UT3pFZXTuZOcgoItEX" version="24.2.2" type="github">
   <diagram name="Page-1" id="4Zaibh6EcHTlCjL74iSX">
     <mxGraphModel dx="1579" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G3mQ4Sn72wITnhxl2ZLJ-11" value="Theoretical knowledge&lt;div&gt;(SLR)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="171" y="345.5" width="121" height="81" as="geometry" />
+          <mxGeometry x="172" y="345.5" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iGCNCBQT7w2wmFvlcftO-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G3mQ4Sn72wITnhxl2ZLJ-14" target="G3mQ4Sn72wITnhxl2ZLJ-8">
           <mxGeometry relative="1" as="geometry">
@@ -56,16 +56,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iGCNCBQT7w2wmFvlcftO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G3mQ4Sn72wITnhxl2ZLJ-10" target="G3mQ4Sn72wITnhxl2ZLJ-4">
+        <mxCell id="iGCNCBQT7w2wmFvlcftO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G3mQ4Sn72wITnhxl2ZLJ-10" target="G3mQ4Sn72wITnhxl2ZLJ-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="253" y="146" />
               <mxPoint x="253" y="173" />
               <mxPoint x="355" y="173" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G3mQ4Sn72wITnhxl2ZLJ-10" value="Project Management Context" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="190" y="73" width="126" height="81" as="geometry" />
+          <mxGeometry x="182" y="62" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iGCNCBQT7w2wmFvlcftO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G3mQ4Sn72wITnhxl2ZLJ-4" target="G3mQ4Sn72wITnhxl2ZLJ-5">
           <mxGeometry relative="1" as="geometry" />
@@ -77,7 +78,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iGCNCBQT7w2wmFvlcftO-5" value="&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;Empirical data provided by industry partners&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="25" y="345.5" width="123" height="81" as="geometry" />
+          <mxGeometry x="14" y="345.5" width="135" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iGCNCBQT7w2wmFvlcftO-17" value="" style="endArrow=none;startArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;startFill=0;endFill=0;" edge="1" parent="1" source="G3mQ4Sn72wITnhxl2ZLJ-14" target="G3mQ4Sn72wITnhxl2ZLJ-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
