@@ -1,9 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T09:02:02.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.2" etag="vQzhnBTx5xb4nNyQ_qcl" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T09:57:36.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="woTkVL3GjtdxHBQSoJgr" version="24.2.2" type="github">
   <diagram name="Page-1" id="y29JlKadjjwHhvCXIpu-">
-    <mxGraphModel>
+    <mxGraphModel dx="586" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCfkDZDdwoOrdhjbewdI-7" target="wCfkDZDdwoOrdhjbewdI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-2" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;544 School Construction Projects&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;53 Variables&amp;nbsp;&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Data Glossary (created based on expert knowledge)&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;labelBackgroundColor=#E6E6E6;labelBorderColor=none;spacingTop=0;spacingLeft=0;spacingRight=2;flipV=1;flipH=1;imageWidth=17;imageHeight=20;imageAspect=0;fontSize=12;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="110" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.93;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#a8a8a8;" edge="1" parent="1" source="wCfkDZDdwoOrdhjbewdI-2" target="wCfkDZDdwoOrdhjbewdI-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="350" as="sourcePoint" />
+            <mxPoint x="350" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-4" value="Composed of" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wCfkDZDdwoOrdhjbewdI-3">
+          <mxGeometry x="0.08" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" target="wCfkDZDdwoOrdhjbewdI-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="630" y="250" />
+              <mxPoint x="630" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCfkDZDdwoOrdhjbewdI-11" target="wCfkDZDdwoOrdhjbewdI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-7" value="Enriched Datasets" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-8" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Data Preparation and Exploration&amp;nbsp;&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="680" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-9" value="&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Selected 7 predictor variables and 6 target variables&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Removed 121 projects with target&amp;nbsp;variables missing&lt;/font&gt;&lt;span style=&quot;font-family: Calibri;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Detecting and removing errors /plausible values&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Detecting distributions and&amp;nbsp;outliers&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;Created cost estimates variables&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#E6E6E6;spacingRight=2;spacingLeft=0;fontSize=12;spacing=0;" vertex="1" parent="wCfkDZDdwoOrdhjbewdI-8">
+          <mxGeometry x="290" y="60" width="330" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-10" value="Data Cleasing" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="wCfkDZDdwoOrdhjbewdI-8">
+          <mxGeometry x="60" y="30" width="150" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-11" value="Exploratory Data Analysis" style="whiteSpace=wrap;html=1;fontStyle=1;textShadow=1;" vertex="1" parent="wCfkDZDdwoOrdhjbewdI-8">
+          <mxGeometry x="60" y="120" width="150" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="wCfkDZDdwoOrdhjbewdI-8" source="wCfkDZDdwoOrdhjbewdI-11" target="wCfkDZDdwoOrdhjbewdI-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="160" />
+              <mxPoint x="250" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="wCfkDZDdwoOrdhjbewdI-8" source="wCfkDZDdwoOrdhjbewdI-10" target="wCfkDZDdwoOrdhjbewdI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-14" value="School Construction&amp;nbsp;&lt;div&gt;Project Multi-documents&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCfkDZDdwoOrdhjbewdI-14" target="wCfkDZDdwoOrdhjbewdI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-16" value="Initial Datasets&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(.csv)" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="465" y="115" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wCfkDZDdwoOrdhjbewdI-16" target="wCfkDZDdwoOrdhjbewdI-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-18" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Data Collation&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="30" width="680" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-19" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;ML model development&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="480" width="680" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-20" value="Data Pre-processing" style="whiteSpace=wrap;html=1;fontStyle=1;textShadow=1;" vertex="1" parent="wCfkDZDdwoOrdhjbewdI-19">
+          <mxGeometry x="60" y="29.5" width="150" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-21" value="&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Converted 5 categorical variables to 32 binary variables&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Converted cost estimates variables into categorical variables&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Handled multicollinearity by eliminating &lt;i&gt;&#39;Pupil Number&#39;&lt;/i&gt; variable&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Imputation&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Aggregation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#E6E6E6;spacingRight=2;spacingLeft=0;fontSize=12;spacing=0;" vertex="1" parent="wCfkDZDdwoOrdhjbewdI-19">
+          <mxGeometry x="290" y="5.5" width="390" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="wCfkDZDdwoOrdhjbewdI-19" source="wCfkDZDdwoOrdhjbewdI-20" target="wCfkDZDdwoOrdhjbewdI-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-23" value="Model Building" style="whiteSpace=wrap;html=1;fontStyle=1;textShadow=1;" vertex="1" parent="wCfkDZDdwoOrdhjbewdI-19">
+          <mxGeometry x="60" y="140" width="150" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="wCfkDZDdwoOrdhjbewdI-19" source="wCfkDZDdwoOrdhjbewdI-20" target="wCfkDZDdwoOrdhjbewdI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-25" value="&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Training/testing data split&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Data scaling and normalization&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Feature selection&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;Algorithm selection&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#E6E6E6;spacingRight=2;spacingLeft=0;fontSize=12;spacing=0;" vertex="1" parent="wCfkDZDdwoOrdhjbewdI-19">
+          <mxGeometry x="290" y="125.5" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="wCfkDZDdwoOrdhjbewdI-19" source="wCfkDZDdwoOrdhjbewdI-23" target="wCfkDZDdwoOrdhjbewdI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-27" value="Final Model Fitting" style="whiteSpace=wrap;html=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="740" width="150" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="wCfkDZDdwoOrdhjbewdI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wCfkDZDdwoOrdhjbewdI-23" target="wCfkDZDdwoOrdhjbewdI-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
