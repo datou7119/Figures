@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T13:31:42.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="OtABDIp96uazk7hagDNq" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T09:24:10.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="PZh1vbqhc9ZReM3LILSv" version="24.2.2" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1179" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yL8Y23ndC1ePSWJtt0TE-42" target="yL8Y23ndC1ePSWJtt0TE-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yL8Y23ndC1ePSWJtt0TE-5" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Project Characteristics (Predictor Variables)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Project Cost and Duration (Target Variables)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Data Glossary&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;labelBackgroundColor=#E6E6E6;labelBorderColor=none;spacingTop=0;spacingLeft=0;spacingRight=2;flipV=1;flipH=1;imageWidth=17;imageHeight=20;imageAspect=0;fontSize=12;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="110" width="290" height="70" as="geometry" />
+        <mxCell id="yL8Y23ndC1ePSWJtt0TE-5" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Project Characteristics (Potential Predictor Variables)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Cost and Duration Variables (Target Variables)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Data Glossary&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;labelBackgroundColor=#E6E6E6;labelBorderColor=none;spacingTop=0;spacingLeft=0;spacingRight=2;flipV=1;flipH=1;imageWidth=17;imageHeight=20;imageAspect=0;fontSize=12;spacing=0;" parent="1" vertex="1">
+          <mxGeometry x="670" y="110" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.93;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#a8a8a8;" parent="1" source="yL8Y23ndC1ePSWJtt0TE-5" target="yL8Y23ndC1ePSWJtt0TE-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -61,7 +61,7 @@
             <mxPoint x="30" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yL8Y23ndC1ePSWJtt0TE-25" value="Documents provided by&amp;nbsp;&lt;br&gt;industry partners" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="yL8Y23ndC1ePSWJtt0TE-25" value="Documents contained&amp;nbsp;&lt;div&gt;project delivery data&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="430" y="40" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yL8Y23ndC1ePSWJtt0TE-25" target="yL8Y23ndC1ePSWJtt0TE-24" edge="1">
