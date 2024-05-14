@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T04:48:22.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="aoXo_w-2TyDu2qcegYCP" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T04:49:57.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="ofyi6njky9ZZ7_8dsvk3" version="24.2.2" type="github">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1461" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yL8Y23ndC1ePSWJtt0TE-5" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Project Characteristics (Potential Predictor Variables)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Cost and Duration Variables (Target Variables)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Data Glossary&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;labelBackgroundColor=#E6E6E6;labelBorderColor=none;spacingTop=0;spacingLeft=0;spacingRight=2;flipV=1;flipH=1;imageWidth=17;imageHeight=20;imageAspect=0;fontSize=12;spacing=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="110" width="340" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.93;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#a8a8a8;" parent="1" source="yL8Y23ndC1ePSWJtt0TE-5" target="yL8Y23ndC1ePSWJtt0TE-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="350" as="sourcePoint" />
@@ -27,7 +24,7 @@
           <mxGeometry x="380" y="190" width="620" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yL8Y23ndC1ePSWJtt0TE-22" value="&lt;ul style=&quot;&quot;&gt;&lt;li&gt;Addressing data entry errors and inconsistent format&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Removing contextually irrelevant variable&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Detecting missing values&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Handling outliers and implausible values&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Feature engineering&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#E6E6E6;spacingRight=2;spacingLeft=0;fontSize=12;spacing=0;" parent="o9FxQ4-tsoaMGLUnX_Qn-15" vertex="1">
-          <mxGeometry x="290" y="20" width="340" height="110" as="geometry" />
+          <mxGeometry x="280" y="10" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-11" value="Data Cleasing" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;textShadow=1;labelBorderColor=none;labelBackgroundColor=none;" vertex="1" parent="o9FxQ4-tsoaMGLUnX_Qn-15">
           <mxGeometry x="60" y="30" width="150" height="61" as="geometry" />
@@ -70,7 +67,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-16" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;Data Collation&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="30" width="620" height="160" as="geometry" />
+          <mxGeometry x="380" y="20" width="620" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yL8Y23ndC1ePSWJtt0TE-5" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;ul style=&quot;font-size: 12px;&quot;&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Project Characteristics (Potential Predictor Variables)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Cost and Duration Variables (Target Variables)&lt;/i&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Data Glossary&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 12px;&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;labelBackgroundColor=#E6E6E6;labelBorderColor=none;spacingTop=0;spacingLeft=0;spacingRight=2;flipV=1;flipH=1;imageWidth=17;imageHeight=20;imageAspect=0;fontSize=12;spacing=0;" parent="o9FxQ4-tsoaMGLUnX_Qn-16" vertex="1">
+          <mxGeometry x="280" y="80" width="340" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o9FxQ4-tsoaMGLUnX_Qn-18" value="&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;ML model development&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="510" width="620" height="200" as="geometry" />
