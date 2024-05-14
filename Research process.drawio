@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T15:09:03.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="K90rSf4lbVbJ96ab--Jg" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-14T15:14:45.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="WfMdwqYqLFlAoCOIQ7pc" version="24.2.2" type="github">
   <diagram name="Page-1" id="WIwlpubPlfTYMNJWYwAD">
-    <mxGraphModel dx="1002" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,6 +139,47 @@
         </mxCell>
         <mxCell id="riGgcoJSYjFT7yGKQKlB-103" value="Model Performance Evaluation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="825" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="riGgcoJSYjFT7yGKQKlB-104" target="riGgcoJSYjFT7yGKQKlB-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-111" value="Output" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="riGgcoJSYjFT7yGKQKlB-110">
+          <mxGeometry x="-0.0241" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-104" value="&lt;b&gt;ML Model&lt;/b&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="390" y="950" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="riGgcoJSYjFT7yGKQKlB-106" target="riGgcoJSYjFT7yGKQKlB-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-108" value="input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="riGgcoJSYjFT7yGKQKlB-107">
+          <mxGeometry x="0.08" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-112" value="Inp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="riGgcoJSYjFT7yGKQKlB-107">
+          <mxGeometry x="-0.0269" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-106" value="&lt;b&gt;Predictor Variables&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-109" value="&lt;b&gt;Target Variables&lt;/b&gt; (project cost and duration variables)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="riGgcoJSYjFT7yGKQKlB-113" target="riGgcoJSYjFT7yGKQKlB-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-115" value="Feature Selection&lt;div&gt;Data preprocessing&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="riGgcoJSYjFT7yGKQKlB-114">
+          <mxGeometry x="-0.2533" y="-1" relative="1" as="geometry">
+            <mxPoint x="14" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="riGgcoJSYjFT7yGKQKlB-113" value="&lt;b&gt;Potential Predictor Variables&lt;/b&gt; (project characteristics)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
